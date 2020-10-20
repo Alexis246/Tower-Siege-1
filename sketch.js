@@ -10,7 +10,7 @@ var polygon, polygonImg, slingshot;
 var platform1,platform2,platform3;
 
 function preload() {
-    polygonImg = loadImage("sprites/polygon.png");
+    polygonImg = loadImage("polygon.png");
 }
 
 function setup(){
